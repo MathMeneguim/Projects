@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-12T11:41:23.942Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.400" etag="Fn53zXxjh9ri1B37oMbd" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-12T11:53:46.013Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.400" etag="r_ftK6po0RLrJ6IYCHA5" version="14.4.7" type="github">
   <diagram id="ObipfgAPdvgUpwC9v3hK" name="Page-1">
     <mxGraphModel dx="781" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,10 +41,22 @@
           <mxGeometry x="380" y="50" width="200" height="80" as="geometry" />
         </mxCell>
         <mxCell id="aiNsmXKWMc07sfbW-tOW-12" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="230" y="130" width="350" height="370" as="geometry" />
+          <mxGeometry x="220" y="130" width="360" height="370" as="geometry" />
         </mxCell>
         <mxCell id="aiNsmXKWMc07sfbW-tOW-13" value="Produzido por: meneguim.job@gmail.com" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="210" y="500" width="350" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="aiNsmXKWMc07sfbW-tOW-14" value="ORIGEM DA DIZI / Material&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="130" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aiNsmXKWMc07sfbW-tOW-15" value="DESCRIÇÃO / Formato / Finger Hole / Embocadura" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="360" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="aiNsmXKWMc07sfbW-tOW-16" value="Tipos de Dizi / tons / partitura" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="340" width="360" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="aiNsmXKWMc07sfbW-tOW-17" value="Canais p/ aprender" style="rounded=0;whiteSpace=wrap;html=1;align=center;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="360" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
