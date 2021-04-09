@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T19:00:51.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.424" etag="3-9A21km6MMfoUI-Lj_n" version="14.5.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-04-09T19:04:08.912Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.424" etag="NswhXATCGgW6LudjDyO8" version="14.5.10" type="github">
   <diagram id="tnI7R9vASUUp2wDOoqL0" name="Page-1">
-    <mxGraphModel dx="1381" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1625" dy="935" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -80,6 +80,21 @@
         </mxCell>
         <mxCell id="2n_idCRzLmhQOMcxAb_0-27" value="SQL/BDSM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1040" y="30" width="210" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-28" value="ACONSELHAMENTO PROFISSIONAL" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="510" width="220" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-29" value="" style="endArrow=classic;html=1;exitX=0.95;exitY=0.029;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2n_idCRzLmhQOMcxAb_0-28" target="2n_idCRzLmhQOMcxAb_0-30">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="480" y="570" as="sourcePoint" />
+            <mxPoint x="820" y="510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-30" value="SITES/CONTATOS PSICOLOGOS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="760" y="480" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-31" value="contato produtores" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="560" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
