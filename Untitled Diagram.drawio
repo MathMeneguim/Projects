@@ -1,1 +1,87 @@
-<mxfile host="app.diagrams.net" modified="2021-04-09T18:41:07.763Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.424" version="14.5.10" etag="7Yw6bP8QSvonpn49l5uB" type="github"><diagram id="tnI7R9vASUUp2wDOoqL0">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2021-04-09T19:00:51.390Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Safari/537.36 OPR/73.0.3856.424" etag="3-9A21km6MMfoUI-Lj_n" version="14.5.10" type="github">
+  <diagram id="tnI7R9vASUUp2wDOoqL0" name="Page-1">
+    <mxGraphModel dx="1381" dy="795" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="80" width="480" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-2" value="URL" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="90" width="460" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="130" y="130" width="460" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-4" value="CADASTRO/LOGIN" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="140" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-6" value="INTRODUCAO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="170" width="440" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-7" value="CHATBOT" style="rounded=1;whiteSpace=wrap;html=1;arcSize=18;" vertex="1" parent="1">
+          <mxGeometry x="520" y="530" width="60" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-8" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="690" y="90" width="330" height="300" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-9" value="POP-UP VENDA A SUA ALMA" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="820" y="210" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-11" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="640" y="640" width="340" height="320" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-15" value="PAGINA REDIRECIONADA" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="660" width="280" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-18" value="" style="rounded=1;whiteSpace=wrap;html=1;arcSize=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="710" width="320" height="240" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-19" value="MEDITACAO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="660" y="720" width="300" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-20" value="INSTRUÇÕES/ PRATICAS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="790" width="270" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-21" value="MINDFULNESS" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-22" value="" style="endArrow=classic;html=1;exitX=-0.009;exitY=0.537;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="2n_idCRzLmhQOMcxAb_0-8">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="660" y="310" as="sourcePoint" />
+            <mxPoint x="606" y="250" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-23" value="" style="endArrow=classic;html=1;exitX=0.008;exitY=0.588;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="2n_idCRzLmhQOMcxAb_0-21" target="2n_idCRzLmhQOMcxAb_0-11">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="160" y="470" as="sourcePoint" />
+            <mxPoint x="78" y="800" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="78" y="467" />
+              <mxPoint x="78" y="800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-24" value="JOGO (SE DER TEMPO)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="420" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-25" value="VIDEO-EXPLICACAO" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="260" y="320" width="220" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-26" value="" style="endArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="2n_idCRzLmhQOMcxAb_0-4" target="2n_idCRzLmhQOMcxAb_0-27">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="610" y="150" as="sourcePoint" />
+            <mxPoint x="1080" y="60" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="640" y="150" />
+              <mxPoint x="640" y="60" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2n_idCRzLmhQOMcxAb_0-27" value="SQL/BDSM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="30" width="210" height="130" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
